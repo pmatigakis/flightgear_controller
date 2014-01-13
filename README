@@ -1,0 +1,7 @@
+With with project you can turn the KL25Z board from Freescale into a joystick that can be used with Flightgear.
+
+Installation
+============
+1) Copy serialport.xml to Flightgear's Protocol directory.
+2) Download flightgear_controller_KL25Z.bin to your KL25Z board or compile the source code in mbed.org and download the binary to the board.
+3) Start Flightgear using the start_flightgear.sh script

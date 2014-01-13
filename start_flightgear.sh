@@ -1,0 +1,1 @@
+fgfs --bpp=16 --fog-disable --disable-horizon-effect --disable-enhanced-lighting --disable-distance-attenuation --disable-specular-highlight --enable-clouds --disable-clouds3d --shading-flat --enable-fullscreen --geometry=640x480 --aircraft=f-14b --timeofday=noon --generic=serial,in,10,/dev/ttyACM0,57600,serialport --httpd=8000
